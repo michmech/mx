@@ -1,0 +1,19 @@
+default  partial alphanumeric_keys
+xkb_symbols "basic" {
+
+    name[Group1]= "Multilingual (Měchura)";
+
+    include "us"
+
+    key <TLDE> { [grave, asciitilde, dead_grave] };
+    key <LSGT> { [backslash, bar, dead_diaeresis] };
+    key <BKSL> { [dead_acute, dead_caron] };
+    key <AE06> { [6, asciicircum, dead_circumflex]};
+    key <AD07> { [u, U, uring, Uring] };
+    key <AD03> { [e, E, EuroSign] };
+    key <AC02> { [s, S, ssharp] };
+
+
+   include "level3(ralt_switch)"
+};
+
