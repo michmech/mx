@@ -1,4 +1,4 @@
-# The **Multilingual (Měchura)** keyboard layout
+# The ‘Multilingual (Měchura)’ keyboard layout
 
 ![the layout](layout.png)
 
