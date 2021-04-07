@@ -30,7 +30,7 @@ There is a version for Linux and a version for Windows here.
 
 The Linux version is in the `Linux` directory (I bet you didn't expect that). To install it, you basically need to copy and edit a few files and then restart. You'll find some rudimentary instructions in `readme.txt` there. It works for me on my installation of Ubuntu but that's all I know. I learned how to do it from [here](https://askubuntu.com/questions/482678/how-to-add-a-new-keyboard-layout-custom-keyboard-layout-definition).
 
-The Windows version (which is in the `Windows` directory, shocking!) was made with [Microsoft Keyboard Layour Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134). If you want you can install Microsoft Keyboard Layour Creator and open the file `mx.klc` to edit the layout. If you just want to install it, go to the `Built` directory there and run `setup.exe`.
+The Windows version (which is in the `Windows` directory, shocking!) was made with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134). If you want you can install Microsoft Keyboard Layout Creator and open the file `mx.klc` to edit the layout. If you just want to install it, go to the `Built` directory there and run `setup.exe`.
 
 On both Linux and Windows, the layout will appear in your list of available keyboard layouts as **Multilingual (Měchura)**. On Linux it is connected to all the four languages, so when you go in to add a keyboard layout, you should pick either English or Irish or Czech or German and the layout should be offered to to you. On Windows, Microsoft Keyboard Layout Creator doesn't allow a keyboard layout to be connected to more than one language, so I have connected it to Irish.
 
