@@ -6,23 +6,33 @@ This is the one and only keyboard layout I use *both* for coding *and* for typin
 
 The layout is as close as possible to the **English (US)** layout, which is exactly what I need for writing computer code, and of course for typing English. Then:
 
-- **Key 1** acts as a dead key. When pressed on its own it gives me the *combining acute accent* for typing `áéí` and so on in Irish and Czech. When pressed with **Shift** it gives a *combining caron* for typing `řšň` and so on in Czech.
+- **Key 1** acts as a dead key. When pressed on its own it gives me the *combining acute accent* for typing `áéí` and so on in Irish and Czech. When pressed with <kbd>Shift</kbd> it gives a *combining caron* for typing `řšň` and so on in Czech.
 
-- **Key 2** when pressed with **AltGr** gives me `ů` (= `u` with ring above) for Czech. And when I add **Shift** it gives me the capitalized version of that, `Ů`.
+- **Key 2** when pressed with **AltGr** gives me `ů` (= `u` with ring above) for Czech. And when I add <kbd>Shift</kbd> it gives me the capitalized version of that, `Ů`.
 
 With those two keys we have Irish and Czech covered. Let's see about German now.
 
-- **Key 3** when pressed with **AltGr** acts as a dead key and gives me the *combining diaeresis* (aka *Umlaut*) for typing `äöü` in German.
+- **Key 3** when pressed with <kbd>AltGr</kbd> acts as a dead key and gives me the *combining diaeresis* (aka *Umlaut*) for typing `äöü` in German.
 
-- **Key 4**, the "S" key, when pressed with **AltGr**, gives me the German *Eszett* `ß` (aka *scharfes S*, the "sharp S"). (Note:  The *Eszett* is a lower-case letter. There exists an upper-case variant too, but that is a useless *Mißgeburt* with no right to be on my keyboard.)
+- **Key 4**, the <kbd>S</kbd> key, when pressed with <kbd>AltGr</kbd>, gives me the lower-case German *Eszett* `ß`.
 
 With that we have German covered. Let's see what else there is.
 
-- **Key 5**, the "E" key, when pressed with **AltGr** gives me the Euro sign `€`.
+- **Key 5** (the <kbd>E</kbd> key) when pressed with <kbd>AltGr</kbd> gives me the Euro sign `€`.
 
-- **Key 6**, the "6" key, when pressed with **AltGr** acts as a dead key and gives me the *combining circumflex*. I need it occasionally for typing fancy Frenchie words like *Côtes du Rhône*. Yes, wine names mostly.
+- **Key 6** (the <kbd>6</kbd> key) when pressed with <kbd>AltGr</kbd> acts as a dead key and gives me the *combining circumflex*. I need it occasionally for typing fancy Frenchie words like *Côtes du Rhône*. Yes, wine names mostly.
 
-- **Key 7** is our last key and another Frenchie enabler. When pressed with **AltGr** it acts as a dead key and gives me the *combining grave accent*. Great for saying that something is *à la* something else, and also for the occasional excursion into Scottish Gaelic (*tha mi sgìth*).
+- **Key 7** is our last key and another Frenchie enabler. When pressed with <kbd>AltGr</kbd> it acts as a dead key and gives me the *combining grave accent*. Great for saying that something is *à la* something else, and also for the occasional excursion into Scottish Gaelic (*tha mi sgìth*).
+
+Finally, I've added a few features to this keyboard layout to satisfy my very fine tastes in typography (**Achtung:** these only work in the Linux version, not in the Windows version):
+
+- <kbd>AltGr</kbd> + <kbd>A</kbd> gives `“` (a 66-shaped opening double quote).
+- <kbd>AltGr</kbd> + <kbd>D</kbd> gives `”` (a 99-shaped closing double quote).
+- <kbd>AltGr</kbd> + <kbd>Z</kbd> gives `‘` (a 6-shaped opening single quote).
+- <kbd>AltGr</kbd> + <kbd>X</kbd> gives `’` (a 9-shaped closing single quote).
+- <kbd>AltGr</kbd> + <kbd>-</kbd> gives `–` (en-dash).
+- <kbd>AltGr</kbd> + <kbd>+</kbd> gives `×` (multiplication).
+- <kbd>AltGr</kbd> + <kbd>></kbd> gives `→` (rightwards arrow).
 
 ## Installing it
 
